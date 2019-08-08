@@ -1,5 +1,8 @@
 # rekognition-find-my-son
 
+保育園の膨大な写真リストから、我が子が写っている写真を抽出するスクリプト。
+Amazon Rekognitionを利用しています。
+
 Find picures with a person from many pictures.
 Using Amazon Rekognition API.
 
