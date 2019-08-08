@@ -8,12 +8,13 @@ Using Amazon Rekognition API.
 
 ## Usage
 
-1. Create `.env`.
+1. Create `.env`
 ```
 AWS_REGION=ap-northeast-1
 AWS_ACCESS_KEY_ID=AKI**********
 AWS_SECRET_ACCESS_KEY=****************
 ```
+The access key must have the permission of Amazon Rekognition.
 
 2. Save target images to images directory
 
