@@ -1,4 +1,8 @@
 # rekognition-find-my-son
+
+Find picures with a person from many pictures.
+Using Amazon Rekognition API.
+
 ## Usage
 
 1. Create `.env`.
